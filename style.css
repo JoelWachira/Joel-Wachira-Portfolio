@@ -13,15 +13,15 @@
   }
   
   main {
-    min-height: 95vh; /* 100% of the viewport height */
+    min-height: 100vh; /* 100% of the viewport height */
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     gap: 40px;
-    max-width: 1200px;
+    max-width: 1300px;
     margin: auto;
-    padding: 40px;
+    padding: 0px;
     background-color: hsla(244, 75%, 16%, 0.9);
 
     /*main background design*/
